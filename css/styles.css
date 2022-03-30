@@ -111,6 +111,7 @@ footer{
 .attribution a{
     color: var(--bg--clr--Soft-Magenta)
 }
+
 /* tablets */
 
 @media screen and (min-width:768px) and (max-width: 992px){
