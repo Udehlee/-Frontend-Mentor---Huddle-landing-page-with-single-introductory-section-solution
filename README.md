@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  solution URL here (https://github.com/Udehlee/-Frontend-Mentor---Huddle-landing-page-with-single-introductory-section-solution.git)
-- Live Site URL:  live site URL here ( https://udehlee.github.io/-Frontend-Mentor---Huddle-landing-page-with-single-introductory-section-solution/)
+- Solution URL:   (https://github.com/Udehlee/-Frontend-Mentor---Huddle-landing-page-with-single-introductory-section-solution.git)
+- Live Site URL:   ( https://udehlee.github.io/-Frontend-Mentor---Huddle-landing-page-with-single-introductory-section-solution/)
 
 ## My process
 
