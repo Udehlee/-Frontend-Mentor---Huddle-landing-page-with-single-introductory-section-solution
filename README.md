@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]( https://udehlee.github.io/-Frontend-Mentor---Huddle-landing-page-with-single-introductory-section-solution/)
+- Solution URL:  solution URL here (https://github.com/Udehlee/-Frontend-Mentor---Huddle-landing-page-with-single-introductory-section-solution.git)
+- Live Site URL:  live site URL here ( https://udehlee.github.io/-Frontend-Mentor---Huddle-landing-page-with-single-introductory-section-solution/)
 
 ## My process
 
@@ -39,5 +39,18 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 
 ### Body
 - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+
+### What I learned
+I learned how to make a text responsive using vw units.
+proud of this css code
+
+.text-column h1{
+            font-size: 3vw;
+            font-family: var(--ff--Poppins);
+            line-height: 1.5;
+}
+
+### Continued development
+I do hope to sharpen my media queries approach on responsive design.
 
 
